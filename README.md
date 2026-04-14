@@ -1,2 +1,2 @@
-# catchcopy-note
+catchcopy-note
 インターネット上で集めたキャッチコピーと業種をまとめたファイルです。
